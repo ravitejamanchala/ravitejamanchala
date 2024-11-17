@@ -5,45 +5,10 @@
 </p>
 <p align="center">
 <a href="https://buymeacoffee.com/raviteja00e" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<img src="https://komarev.com/ghpvc/?username=ravitejamanchala&style=flat-square&color=blue" alt="Profile Views">
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ravitejamanchala&style=flat-square&color=blue" alt="Profile Views"></p>
 
 <h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<pre>
-  
-                                             .--++:.                                                
-                                      .-=+*#%%%%%@%##*:                                             
-                                  .:-+%%@@@@@@%%%%%%%%%*:=:                                         
-                               .*%@@@@@@@@@@@@%@%@@@%%%@%#+                                         
-                            .#@@@%@@@@@@@@@@@@@@@@@@%%@@@##+                                        
-                           .%@@@@@@@@@@@@@@@@@@%@@@@%%#@@@##.                                       
-                           :@@@@@@@@@@@@@%@@@@%@%%%%@#%%@@##-                                       
-                           :@@@@@@@@@@@@@@@@@@@@@@@#@@%#@@%%+                                       
-                           -@@@@@@@@@@@@@@@@@@@@@@@%@@%%%@@%%*                                      
-                           =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:                                     
-                           +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+                                     
-                           +@@@@@@@@@@@%%%##+==------+%%@@%#%#-                                     
-                            @@@@@@%#+=::...         .:=##%%@%%-                                     
-                            :@@@@%*=--...           ..:=#%%%%@.                                     
-                             #@@@%*==-::.           ...:-#%#%%                                      
-                             =@@@#*+=-:...           .....:##*.                                     
-                              #@%**+-:..            .-++-..#+..:                                    
-                            .%%@%*%@%#+-:.     .:+#%#+=-:..==. :                                    
-                            -%#%##%@%#%#%%#-. .:-=.#%.:-:...::-:                                    
-                            .#%@#*##*+#=-+##-  ...---::... .:::.++-:.                               
-                             =%@#*+=---::-+*-  ..         .::. .@@%%@@@%#=                          
-                              *###+-::...:=+-.  ..        .-: .*@@%@@@@@@@@%=:                      
-                            :@@*##*=:....:+=-.   .       .:-@@@@@@@@@@@@@@@@@@%#*:                  
-                         =%@@@@@@@%*=-:.:+=+=. ...      ..:=@@@@@@@@@@@@@@@@@@@@%%#*-               
-                     .#@@@@@@@@@@@@#*=---:-==-:........::::+@@@@@@@@@@@@@@@@@@@@@@%%%#*             
-                  .%@@@@@@@@@@@@@@@%#*+**+==--:..::-=::..:-=@@@@@@@@@@@@@@@@@@@@@@@@%%%%#-          
-                  =@@@@@@@@@@@@@@@@@@#+++**-    .:::.::::-:=@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%*         
-                +@@@@@@@@@@@@@@@@@@@@@%#++#*=:.. ::::::--::*@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%#-        
-               :@@@@@@@@@@@@@@@@@@@@@@@@#++*#*+=-:....--::=@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%#.       
-              =@@@@@@@@@@@@@@@@@@@@@@@@@@#+--::::..::--:::#@@@@@@@@@@@@@@@@@@@@@@@@%%@@%%%%%*       
-             :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+=-+*++-::::*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%#:     
-
-</pre>
 
 ### 👨‍💻 About Me :
 
@@ -81,11 +46,4 @@ I am a Senior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravitejamanchala&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### ✍️ Blog Posts :
-
-- [Best Practices for Frontend Development](https://ravitejamanchala.github.io/)
-- [How to Create Scalable React Applications](https://ravitejamanchala.github.io/)
-- [Getting Started with TypeScript](https://ravitejamanchala.github.io/)
-
----
+\
