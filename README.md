@@ -1,49 +1,58 @@
-👨‍💻 Raviteja Manchala
-🌍 Location: London, UK
-📧 Email: raviteja0024@gmail.com
-🔗 Online Presence:
-GitHub | LinkedIn | Behance | CodePen
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/raviteja-manchala-55590ba4/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://github.com/ravitejamanchala" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/raviteja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ravitejamanchala&style=flat-square&color=blue" alt="Profile Views"></p>
 
-⚡ About Me
-Hello! I'm Raviteja, a Senior Frontend Developer with 8+ years of experience delivering high-quality, scalable, and performance-driven web applications. I am skilled in React.js, Next.js, and TypeScript and have a passion for creating user-friendly, accessible, and visually appealing designs.
+<h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-🛠️ Tech Stack
-Languages & Frameworks
-Frontend: HTML5, CSS3, Sass, JavaScript (ES6+), TypeScript
-Frameworks/Libraries: React.js, Next.js, Redux, Tailwind CSS, Material UI, Bootstrap
-Tools
-Git, Bitbucket, Webpack, Parcel, Docker
-CI/CD pipelines, AWS, Google Analytics, Jest, Sonarcloud
-Design
-Figma, Adobe Illustrator, Photoshop
-📈 Stats
-yaml
-Copy code
-Repositories: 94
-Commits: 2,071
-Followers: 143
-Stars: 281
-Lines of Code: 515,175++
-🌟 Key Projects
-Cygnam Cloud
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-Tech Stack: React.js, Next.js, Redux, Tailwind CSS
-Built a modern cloud management app with reusable components and optimized performance.
-DeepEdge AI Platform
+### 👨‍💻 About Me :
 
-Tech Stack: React.js, Redux, Reactstrap
-Developed an AI-driven platform with dynamic, interactive UI and efficient state management.
-Microsoft Careers
+I am a Senior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in London, UK. With over **8 years of experience**, I specialize in crafting dynamic, scalable, and user-friendly web applications.
 
-Tech Stack: Bootstrap, React.js
-Revamped the careers portal for Microsoft, focusing on responsive and accessible design.
-(More on GitHub)
+- 🔭 Currently working on **React.js**, **Next.js**, and **TypeScript**.
+- 🌱 I’m exploring **Performance Optimization** and **Web Accessibility (WCAG)**.
+- ⚡ Fun fact: I love building **reusable UI libraries** and solving coding challenges!
+- 📫 How to reach me: &nbsp; [![LinkedIn Badge](https://img.shields.io/badge/-Raviteja-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raviteja-manchala-55590ba4/)
 
-🏆 Key Achievements
-Migrated legacy Angular applications to React.js, improving maintainability by 40%.
-Delivered reusable component libraries, reducing development time by 30%.
-Improved web performance and SEO on major projects using modern tools.
-📬 Contact
-📧 Email: raviteja0024@gmail.com
-🔗 LinkedIn: linkedin.com/in/raviteja-manchala-55590ba4
+---
 
+### 🛠 Tech Stack :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+### 🔥 GitHub Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ravitejamanchala&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravitejamanchala&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✍️ Blog Posts :
+
+- [Best Practices for Frontend Development](https://ravitejamanchala.github.io/)
+- [How to Create Scalable React Applications](https://ravitejamanchala.github.io/)
+- [Getting Started with TypeScript](https://ravitejamanchala.github.io/)
+
+---
