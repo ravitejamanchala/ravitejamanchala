@@ -10,7 +10,8 @@
 
 <h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<pre id="tiresult" style="font-size: 9px; background-color: #000000; font-weight: bold; padding: 4px 5px; --fs: 9px;"><b style="color:#FFFFFF">10110111110100011101011011001111111110</b><b style="color:#FEFEFE">0</b><b style="color:#FDFDFD">0</b><b style="color:#FEFEFE">1</b><b style="color:#FFFFFF">011110011001011001010010100000011010100001110010010100101101010001001001001011001111</b>
+
 
 ### 👨‍💻 About Me :
 
