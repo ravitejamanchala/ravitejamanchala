@@ -4,7 +4,7 @@
 <a href="https://github.com/ravitejamanchala" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/raviteja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://buymeacoffee.com/raviteja00e" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ravitejamanchala&style=flat-square&color=blue" alt="Profile Views"></p>
 
